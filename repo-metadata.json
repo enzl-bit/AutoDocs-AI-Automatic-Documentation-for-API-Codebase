@@ -1,0 +1,18 @@
+{
+  "name": "autodocs-ai",
+  "description": "\ud83e\udde0 AutoDocs AI - Open-source tool to generate documentation from codebase (JavaScript/Python) with interactive web viewer.",
+  "topics": [
+    "autodocs-ai",
+    "documentation-generator",
+    "api-docs",
+    "code-parser",
+    "jsdoc",
+    "typescript",
+    "expressjs",
+    "reactjs",
+    "tailwindcss",
+    "developer-tools",
+    "opensource"
+  ],
+  "about": "AutoDocs AI is an open-source tool that automatically generates documentation from your JavaScript (and soon Python) codebase, and renders it beautifully in a web interface. Designed to help developers save time writing manual docs for internal APIs, utility functions, and more."
+}
